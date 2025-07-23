@@ -12,10 +12,10 @@ body {
     width: 80%;
     height: 80%;
     background: url("./ayaka.png") no-repeat center; 
-    background-size: 3500px;
-    background-position-x: -1325px;
-    background-position-y: -400px;
-    /* margin: auto; */
+    background-size: 250%;
+    background-position-x: 60%;
+    background-position-y: 18%;
+    margin: auto;
 }
 
 input {
@@ -24,8 +24,8 @@ input {
 }
 
 .board {
-    width: 300px!important;
-    height: 300px!important;
+    /* width: 300px!important;
+    height: 300px!important; */
     margin: auto;
     width: 70vmin;
     height: 55vmin;
